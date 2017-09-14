@@ -5,12 +5,12 @@ A Support Vector Machine model which is trained on labelled chats and trying to 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Prerequisites
-Python (used 2.7.13 ) 
-Pandas
-NLTK
-Numpy
-Sklearn 
-Pickle
+1. Python (used 2.7.13 ) 
+2. Pandas
+3. NLTK
+4. Numpy
+5. Sklearn 
+6. Pickle
 
 ## Installation
 
